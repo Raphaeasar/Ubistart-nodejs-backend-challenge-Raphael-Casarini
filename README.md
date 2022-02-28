@@ -1,2 +1,13 @@
 # Ubistart-nodejs-backend-challenge-Raphael-Casarini
 Teste para desenvolvedor fulltack- Ubistart
+
+# Para rodar o projeto:
+1° é necessário instalar o pacote de dependências. Após descompactar os arquivos, no diretório raiz do projeto,
+diditar o seguinte comando no terminal:
+
+npm install
+
+2° passo:
+Agora é so rodar o projeto. Digitar o comando no terminal:
+
+nodemon server.js
