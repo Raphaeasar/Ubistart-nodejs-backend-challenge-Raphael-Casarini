@@ -10,6 +10,7 @@ digitar o seguinte comando no terminal:
 npm install
 
 2° passo:
+
 Agora é so rodar o projeto. Digitar o comando no terminal:
 
 nodemon server.js
